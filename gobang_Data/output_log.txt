@@ -18,13 +18,13 @@ Platform assembly: E:\我的文档\文档\作品\gobang\gobang_Data\Managed\Unit
 Loading E:\我的文档\文档\作品\gobang\gobang_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: E:\我的文档\文档\作品\gobang\gobang_Data\Managed\Wineforever.String.dll (this message is harmless)
 Loading E:\我的文档\文档\作品\gobang\gobang_Data\Managed\Wineforever.String.dll into Unity Child Domain
-- Completed reload, in  0.120 seconds
+- Completed reload, in  0.101 seconds
 Platform assembly: E:\我的文档\文档\作品\gobang\gobang_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\我的文档\文档\作品\gobang\gobang_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.596512 ms
+UnloadTime: 0.589537 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: d90 -> priority: 1 
+  Thread -> id: 2818 -> priority: 1 

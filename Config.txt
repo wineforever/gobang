@@ -1,4 +1,4 @@
-You:Human
-Enemy:DeepMind
-Serial Number:0000000043
+You:MCTS AI
+Enemy:MCTS AI
+Serial Number:0000000002
 
